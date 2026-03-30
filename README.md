@@ -21,7 +21,7 @@ npm install
 
 Then 
 
-## Run Tests
+## Run 
 
 ```bash
 npm run dev:web
