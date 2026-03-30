@@ -1,0 +1,22 @@
+{
+  "name": "post-recovery-platform",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev -w @post-recovery/web",
+    "dev:api": "node --experimental-transform-types apps/api/src/server.ts",
+    "build:web": "npm run build -w @post-recovery/web",
+    "start:web": "node scripts/start-web.mjs",
+    "test": "set DISABLE_STORE_PERSISTENCE=1&& node --experimental-transform-types apps/api/tests/api.test.ts"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "typescript": "^5.9.3"
+  }
+}

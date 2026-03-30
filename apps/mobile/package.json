@@ -1,0 +1,11 @@
+{
+  "name": "@post-recovery/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@post-recovery/shared": "0.1.0",
+    "react": "^19.1.1",
+    "react-native": "^0.81.4"
+  }
+}

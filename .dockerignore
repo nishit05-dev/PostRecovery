@@ -1,0 +1,11 @@
+node_modules
+.next
+data
+tmp_ppt_extract
+.git
+.gitignore
+*.log
+apps/web/.env.local
+apps/web/.env
+.env
+.env.local
