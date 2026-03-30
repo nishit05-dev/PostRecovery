@@ -16,10 +16,10 @@ This repository implements a voice-first post-discharge recovery platform starte
 - `packages/shared`: Shared types and curated clinical guidance rules
 - `docs`: Product and architecture notes
 
-## Run the API
+## Run this install
 
 ```bash
-npm run dev:api
+npm install
 ```
 
 The API starts on `http://localhost:4000`.
