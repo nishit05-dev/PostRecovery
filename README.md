@@ -1,8 +1,9 @@
 # AI Post-Recovery Platform MVP
 
-To Check the Prototype Do the Following Steps 
-#Make sure you have node.js 
-* .zip out his repo * 
+To Check the Prototype 
+Do the Following Steps 
+# Make sure you have node.js 
+# .zip out his repo  
 -and export it in your pc
 
 ## Run this in your command prompt 
