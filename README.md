@@ -31,6 +31,8 @@ npm run dev:web
 Now run the local host in your chrome (make sure you run this in chrome only because the voice assistant is not working properly on other browsers) 
 Allow chrome for using microphone to test (in most of the cases the permission is asked and mic start working after you press start check in
 
+## Use the Sample Prescription file given in repo for OCR testing 
+
 ## Important Notes
 
 - Persistent demo state is stored in `data/app-store.json`.
