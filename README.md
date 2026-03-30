@@ -22,12 +22,12 @@ This repository implements a voice-first post-discharge recovery platform starte
 npm install
 ```
 
-The API starts on `http://localhost:4000`.
+
 
 ## Run Tests
 
 ```bash
-npm test
+npm run dev:web
 ```
 
 ## Enable Real Assistant Reasoning
